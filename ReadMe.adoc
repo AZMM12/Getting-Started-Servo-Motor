@@ -1,10 +1,3 @@
-= Information of Authoration
-:Author: azmm12
-:Email: {Abdulazizmmutiri@gmail.com}
-:Date: 06/07/2022
-:Revision: version#1
-:License: Public Domain
-
 = Project: {Side_1}
 == Description of project:
 
@@ -29,6 +22,12 @@ The project is a controlled servo motor by a potentiometer , the motor should ro
 
 === Contributing
 To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Information of project
+
+Author: azmm12
+Email: {Abdulazizmmutiri@gmail.com}
+Date: 06/07/2022
 
 === Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents.
