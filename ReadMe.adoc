@@ -1,6 +1,11 @@
 = Project: {Side_1}
-== Description of project:
+=== Author: azmm12 .
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 06/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
 
+== Description of project:
 Getting started with controlling and programming Low Level Motors to reach the level of brushless motor contolling
 The project is a controlled servo motor by a potentiometer , the motor should rotate to the same position of potentiometer of joystic .
 
@@ -22,12 +27,6 @@ The project is a controlled servo motor by a potentiometer , the motor should ro
 
 === Contributing
 To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Information of project
-
-Author: azmm12
-Email: {Abdulazizmmutiri@gmail.com}
-Date: 06/07/2022
 
 === Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents.
