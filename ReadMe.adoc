@@ -20,10 +20,10 @@ The project is a controlled servo motor by a potentiometer , the motor should ro
 === Folder structure
 
 ....
- Side_Mission_1                => Arduino sketch folder
+ Side_Mission_1        => Arduino sketch folder
   ├── Side_1.ino       => main Arduino file
-  ├── Servo_Motor.png      => (optional) an image of the required schematics
-  └── ReadMe.adoc         => this file
+  ├── Servo_Motor.png  => an image of the required schematics
+  └── ReadMe.adoc      => Readme file
 ....
 
 === Contributing
